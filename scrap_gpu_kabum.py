@@ -63,4 +63,4 @@ finally:
     driver.quit()
 
 df = pd.DataFrame(dict_gpu)
-df.to_csv('C:/Users/xLBKx/Desktop/python_scraping/tabela_gpu2.csv', encoding='utf-8', sep=';')
+df.to_csv('C:/Users/xLBKx/Desktop/python_scraping/kabum_gpu.csv', encoding='utf-8', sep=';')
